@@ -1,1 +1,1 @@
-# get-started-git-github-faizalfit
+# Get Started with Git and Github
